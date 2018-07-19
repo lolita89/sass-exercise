@@ -1,3 +1,11 @@
+.blue { color: 'blue'; }
+
+.red { color: 'red'; }
+
 body { background: pink; font-family: "serif"; color: black; }
 
 h1 { color: black; }
+
+#box { background: red; -webkit-border-radius: 12px; -moz-border-radius: 12px; -ms-border-radius: 12px; border-radius: 12px; height: 120px; width: 120px; }
+
+.container ul li { padding: 10px; }
