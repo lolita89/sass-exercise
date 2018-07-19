@@ -1,0 +1,13 @@
+$ff: 'serif';
+$bg: pink;
+$h1: black;
+
+body {
+    background: $bg;
+    font-family: $ff;
+    color: $h1;
+}
+
+h1 {
+    color: $h1;
+}
